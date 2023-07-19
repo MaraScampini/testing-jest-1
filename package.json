@@ -1,0 +1,30 @@
+{
+  "name": "testing-jest-1",
+  "version": "1.0.0",
+  "description": "Testing in jest - basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run --reporter verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaraScampini/testing-jest-1.git"
+  },
+  "keywords": [
+    "jest",
+    "testing",
+    "javascript"
+  ],
+  "author": "Mara Scampini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaraScampini/testing-jest-1/issues"
+  },
+  "homepage": "https://github.com/MaraScampini/testing-jest-1#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "vitest": "^0.33.0"
+  }
+}
