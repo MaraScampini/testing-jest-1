@@ -1,4 +1,4 @@
-export const generateResultTest = (calculationResult) => {
+export const generateResultText = (calculationResult) => {
   let resultText = "";
 
   if (calculationResult === "invalid") {
